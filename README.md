@@ -1,6 +1,6 @@
 # processSimulator
 
-Zhengtian CHU test in Linux, use Linux C.
+Zhengtian CHU test in Linux, use Linux C. Final marks: 93/100
 
 ## How to run it:
 - Open the terminal.
